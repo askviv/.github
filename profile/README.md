@@ -4,6 +4,6 @@
 
 # Viv
 
-Super employee for financial operations.
+The super agent for financial operations.
 
 [Visit our website](https://www.askviv.co)
