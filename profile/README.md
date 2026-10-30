@@ -4,8 +4,6 @@
 
 # Viv
 
-AI agents for regulated financial customer journeys.
-
-Viv helps operations teams move cases forward with control, evidence and oversight.
+Super employee for financial operations.
 
 [Visit our website](https://www.askviv.co)
